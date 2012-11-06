@@ -1,0 +1,3 @@
+== Welcome to Rails
+This is a devise tutorial, that you can try for free at http://railsapps.github.com/tutorial-rails-devise-rspec-cucumber.html. Hit me up if you need any help? I'm still new 
+to this but ill try my best. -goArchy
